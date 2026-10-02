@@ -1,2 +1,0 @@
-# palbreed-admob
-Breeding 
